@@ -21,5 +21,5 @@ This repository contains a Python script that uses OpenCV to monitor a live vide
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Real-Time-Video-Monitoring.git
+   git clone https://github.com/MirzaRiyasatAli/Dynamic-Frame-Detection-in-Live-Video-Streams.git
 
